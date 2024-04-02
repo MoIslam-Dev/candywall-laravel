@@ -1,0 +1,24 @@
+GET /api/pb/h9gj78ftgj/notik_a?amount=100&user_id=64B14302286B8&offer_id=5645645&conversion_ip=0.0.0 HTTP/1.0
+Accept:                    text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding:           gzip, deflate, br
+Accept-Language:           ar,en-US;q=0.9,en;q=0.8
+Connection:                close
+Content-Length:            0
+Cookie:                    remember_web_59ba36addc2b2f9401580f014c7f58ea4e30989d=eyJpdiI6IjN5SDFBVjlCYXRJZlEzZ2NZZ3NqTEE9PSIsInZhbHVlIjoibkNlQ1pwVGJmMG9GRmY5anRweU1jY3I2Z3lUbWw2di9nbENqZzNWNHRCSVVCS3ltazlVaW16Q3pocXRUeTNrQ2Y0aitwWjA2N2VUV0NzNVl2RXNlbFZPOUNJamJSMzBQajRlSTczbTNEM0JmQWF1Ujh0WW90R0tqb1pzV0dkTWUrS2dwWitPUENxanNyQmI5N2o4ZEZaUnZpMU1JYjYvRlc3Q05MeG12S3ZzPSIsIm1hYyI6IjUzY2Q2NGFhYzRiYzVjNzhiODMzNTQ4YTBkNjkxYTcwOTNmNjBhZjY3M2ZmMDA2MzYwYTViY2NkNmU1MWExYzAifQ%3D%3D; XSRF-TOKEN=eyJpdiI6Ijk3d0FuYjlWUUU5RFZ4Si93MmtVWFE9PSIsInZhbHVlIjoiYVVUWUt1T1NiZFdOeUY3QS8zT2k3YWltWEdtamZIVVk0YVludTJwb2VCbTlYdXdLcUxZK3M4Z1Vydk0vbndzWSIsIm1hYyI6ImE5ZWZjZmQzN2YxZDBmNTUwNWEyYzhkNDcyODk1YTNjYjBkNTFlYTYzNGQ1ZWQ0OWY3YzRhYjI3YWU0Mjc3ODgifQ%3D%3D; teragift_session=eyJpdiI6InJFam1aZ01QNXN0UFcvYXpiNktBVXc9PSIsInZhbHVlIjoiYzJaL2EyUHRDTm5DdjFuSUJadC9ZVUdrcUFLRWJmNnpXZjJjOVd2QmJWWEJrTStxVy8rZ3dXaHVKOU1BVmdUUCIsIm1hYyI6ImU1ZmQyZmQ5OTkwZDg1N2JiODc1N2VhOWJmMTljNzZiYzQyODQ3M2Q4ZmFjYTdhMjM5MzM2ZmQ5OThhYTkzYzMifQ%3D%3D
+Host:                      mintly.store-apk.com
+Sec-Ch-Ua:                 "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+Sec-Ch-Ua-Mobile:          ?0
+Sec-Ch-Ua-Platform:        "Windows"
+Sec-Fetch-Dest:            document
+Sec-Fetch-Mode:            navigate
+Sec-Fetch-Site:            none
+Sec-Fetch-User:            ?1
+Upgrade-Insecure-Requests: 1
+User-Agent:                Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+X-Forwarded-For:           160.176.16.144
+X-Forwarded-Proto:         https
+X-Real-Ip:                 160.176.16.144
+Cookie: remember_web_59ba36addc2b2f9401580f014c7f58ea4e30989d=eyJpdiI6IjN5SDFBVjlCYXRJZlEzZ2NZZ3NqTEE9PSIsInZhbHVlIjoibkNlQ1pwVGJmMG9GRmY5anRweU1jY3I2Z3lUbWw2di9nbENqZzNWNHRCSVVCS3ltazlVaW16Q3pocXRUeTNrQ2Y0aitwWjA2N2VUV0NzNVl2RXNlbFZPOUNJamJSMzBQajRlSTczbTNEM0JmQWF1Ujh0WW90R0tqb1pzV0dkTWUrS2dwWitPUENxanNyQmI5N2o4ZEZaUnZpMU1JYjYvRlc3Q05MeG12S3ZzPSIsIm1hYyI6IjUzY2Q2NGFhYzRiYzVjNzhiODMzNTQ4YTBkNjkxYTcwOTNmNjBhZjY3M2ZmMDA2MzYwYTViY2NkNmU1MWExYzAifQ==; XSRF-TOKEN=eyJpdiI6Ijk3d0FuYjlWUUU5RFZ4Si93MmtVWFE9PSIsInZhbHVlIjoiYVVUWUt1T1NiZFdOeUY3QS8zT2k3YWltWEdtamZIVVk0YVludTJwb2VCbTlYdXdLcUxZK3M4Z1Vydk0vbndzWSIsIm1hYyI6ImE5ZWZjZmQzN2YxZDBmNTUwNWEyYzhkNDcyODk1YTNjYjBkNTFlYTYzNGQ1ZWQ0OWY3YzRhYjI3YWU0Mjc3ODgifQ==; teragift_session=eyJpdiI6InJFam1aZ01QNXN0UFcvYXpiNktBVXc9PSIsInZhbHVlIjoiYzJaL2EyUHRDTm5DdjFuSUJadC9ZVUdrcUFLRWJmNnpXZjJjOVd2QmJWWEJrTStxVy8rZ3dXaHVKOU1BVmdUUCIsIm1hYyI6ImU1ZmQyZmQ5OTkwZDg1N2JiODc1N2VhOWJmMTljNzZiYzQyODQ3M2Q4ZmFjYTdhMjM5MzM2ZmQ5OThhYTkzYzMifQ==
+
+John Doe
+Jane Doe
